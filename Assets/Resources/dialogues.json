@@ -1,0 +1,124 @@
+{
+"dialogues": [
+{
+"id": 1,
+"page": "left",
+"message": "Dear little diary, today felt like one of those normal days that somehow still leave a strange feeling in your chest. School was boring, the halls smelled like old books, and nothing unusual really happened... but I couldn't shake the feeling that something small was different.",
+"bugs": 1
+},
+{
+"id": 2,
+"page": "right",
+"message": "Dear little diary, during math class I noticed the numbers on the board looked strange. They weren't wrong exactly, but they felt like they shifted whenever I blinked. I tried to focus harder but the feeling stayed with me all afternoon.",
+"bugs": 1
+},
+{
+"id": 3,
+"page": "left",
+"message": "Dear little diary, after school I walked home the same way I always do. The same houses, the same trees, the same cracks in the sidewalk. Still, the whole street felt unusually quiet, like everyone decided to disappear at the same time.",
+"bugs": 2
+},
+{
+"id": 4,
+"page": "right",
+"message": "Dear little diary, when I opened the front door the house was silent. Not the normal kind of silence either, but the kind that makes you stop for a moment and listen just to be sure you're not missing something.",
+"bugs": 2
+},
+{
+"id": 5,
+"page": "left",
+"message": "Dear little diary, I went straight to my room and decided to write for a while. Usually writing helps me relax, but today every word feels like it's being watched by something I can't quite see.",
+"bugs": 2
+},
+{
+"id": 6,
+"page": "right",
+"message": "Dear little diary, something strange happened when I reread the page I wrote earlier. I could swear one of the sentences looked slightly different than before, like the meaning had shifted when I wasn't paying attention.",
+"bugs": 3
+},
+{
+"id": 7,
+"page": "left",
+"message": "Dear little diary, maybe I'm just tired and imagining things. People say the brain plays tricks when you stare at something for too long. Still, the words seem to move when I look away for a second.",
+"bugs": 3
+},
+{
+"id": 8,
+"page": "right",
+"message": "Dear little diary, I also started hearing a quiet scratching noise somewhere in the house. It sounds like something dragging slowly across a surface, but every time I stop writing the sound disappears.",
+"bugs": 3
+},
+{
+"id": 9,
+"page": "left",
+"message": "Dear little diary, the strange thing is that the noise comes back whenever I start writing again. It's almost like the sound is reacting to the pen touching the paper.",
+"bugs": 3
+},
+{
+"id": 10,
+"page": "right",
+"message": "Dear little diary, I tried to ignore it and keep writing, but now I can't stop thinking about the idea that something might actually be listening to every word I put on this page.",
+"bugs": 4
+},
+{
+"id": 11,
+"page": "left",
+"message": "Dear little diary, a few minutes ago I stopped writing just to test something. The scratching noise started immediately, slow and careful, like someone trying not to be noticed.",
+"bugs": 4
+},
+{
+"id": 12,
+"page": "right",
+"message": "Dear little diary, when I started writing again the sound stopped instantly. That somehow makes the situation feel even stranger than before.",
+"bugs": 4
+},
+{
+"id": 13,
+"page": "left",
+"message": "Dear little diary, my hand slipped earlier and I accidentally wrote a word I don't remember thinking about. I stared at the page for a while trying to remember when I decided to write it.",
+"bugs": 4
+},
+{
+"id": 14,
+"page": "right",
+"message": "Dear little diary, the word that appeared was 'hello'. Just sitting there in the middle of the sentence like someone else had joined the conversation without asking.",
+"bugs": 5
+},
+{
+"id": 15,
+"page": "left",
+"message": "Dear little diary, I erased the word quickly, but I still feel uneasy. My hand definitely moved when I wrote it, but I don't remember making the decision.",
+"bugs": 5
+},
+{
+"id": 16,
+"page": "right",
+"message": "Dear little diary, maybe my brain filled the space automatically. People say that happens when you're distracted, but the word looked too deliberate to be an accident.",
+"bugs": 5
+},
+{
+"id": 17,
+"page": "left",
+"message": "Dear little diary, what if the page isn't just paper? What if something on the other side is trying to answer the things I'm writing here?",
+"bugs": 5
+},
+{
+"id": 18,
+"page": "right",
+"message": "Dear little diary, the scratching sound is louder now. It doesn't sound like it's coming from the walls anymore. It sounds much closer than that.",
+"bugs": 5
+},
+{
+"id": 19,
+"page": "left",
+"message": "Dear little diary, I checked the whole room and nothing seems out of place. The only thing making any noise at all is the pen moving across the page.",
+"bugs": 5
+},
+{
+"id": 20,
+"page": "right",
+"message": "Dear little diary, I think I'm going to stop writing for tonight. If something really is paying attention to these pages, I don't want to give it anything else to read.",
+"bugs": 5
+}
+]
+}

@@ -14,7 +14,9 @@ public class ButtonAnimator : MonoBehaviour
     public bool debugExit = false;
 
     // Tecla que se usará para probar la animación de salida
-    public KeyCode debugKey = KeyCode.Space;
+   // public KeyCode debugKey = KeyCode.Space;
+    public GameObject PlayUi;
+    public GameObject closedBook;
 
     void Awake()
     {
@@ -26,12 +28,12 @@ public class ButtonAnimator : MonoBehaviour
     void Update()
     {
         // Si el modo debug está activado y se presiona la tecla configurada
-        if (debugExit && Input.GetKeyDown(debugKey))
+        /*if (debugExit && Input.GetKeyDown(debugKey))
         {
             // Ejecuta la animación de salida
             Exit();
 
-        }
+        }*/
     }
 
     // Método público que dispara el Trigger "Exit" del Animator
@@ -54,9 +56,9 @@ public void openBook()
     {
         if (BookMenu != false)
         {
-            BookMenu.SetActive(false);
-            BookOpen.SetActive(true);
-
+           
+            PlayUi.SetActive(true);
+            closedBook.SetActive(false);
 
         }
         
@@ -67,9 +69,12 @@ public void openBook()
        Debug.Log("Play button pressed");
         Exit();
         //! TODO: GameStart():
+
+        
+
     }
 
-    public void CreditsButton()
+    /*public void CreditsButton()
     {
         Debug.Log("Credits button pressed");
         Exit();
@@ -77,6 +82,7 @@ public void openBook()
         creditsMenu.SetActive(true);
     
     }
+    */
     public void ExitButton()
     {
         Debug.Log("Exit button pressed");
